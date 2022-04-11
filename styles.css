@@ -1,0 +1,45 @@
+/* <style>
+  .attribution { font-size: 11px; text-align: center; }
+  .attribution a { color: hsl(228, 45%, 44%); }
+</style> */
+
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: "Roboto", sans-serif;
+  background-color: lightblue;
+}
+
+main {
+  min-height: 400px;
+  background: #fff;
+  padding: 20px 20px;
+  border-radius: 10px;
+  box-shadow: 5px 55px 50px -20px #b6b6b6;
+  width: 250px;
+  font-size: 0.7em;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+h1 {
+  color: #313552;
+  text-align: center;
+}
+
+p {
+  color: #8893a2;
+  text-align: center;
+  font-size: 15px;
+}
+
+.attribution {
+  font-size: 10px;
+  text-align: center;
+}
